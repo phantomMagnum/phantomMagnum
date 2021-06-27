@@ -1,0 +1,4 @@
+- 👋 Hi, I’m tristen
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently nothing
+- 💞️ I’m looking for help
